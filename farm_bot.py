@@ -75,7 +75,7 @@ def text_handler(bot, update):
 
 def main():
     # Create the Updater and pass it your bot's token.
-    updater = Updater('667529727:AAEHnmEYwfKp8ATkTECyTvhvUPjfl9Q9HCw')  # TODO
+    updater = Updater('')  # TODO
 
     # Get the dispatcher to register handlers
     dp = updater.dispatcher
